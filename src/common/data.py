@@ -1,0 +1,1 @@
+# глобальные переменные для тестов: Email, username, password etc.
